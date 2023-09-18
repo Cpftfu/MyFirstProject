@@ -1,0 +1,7 @@
+C:\Users\Вика\source\repos\(cum)culator\(cum)culator\bin\Debug\(cum)culator.exe.config
+C:\Users\Вика\source\repos\(cum)culator\(cum)culator\bin\Debug\(cum)culator.exe
+C:\Users\Вика\source\repos\(cum)culator\(cum)culator\bin\Debug\(cum)culator.pdb
+C:\Users\Вика\source\repos\(cum)culator\(cum)culator\obj\Debug\(cum)culator.csproj.AssemblyReference.cache
+C:\Users\Вика\source\repos\(cum)culator\(cum)culator\obj\Debug\(cum)culator.csproj.CoreCompileInputs.cache
+C:\Users\Вика\source\repos\(cum)culator\(cum)culator\obj\Debug\(cum)culator.exe
+C:\Users\Вика\source\repos\(cum)culator\(cum)culator\obj\Debug\(cum)culator.pdb
